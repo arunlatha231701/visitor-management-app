@@ -317,24 +317,24 @@ screenshots/
 
 After capturing the screenshots, add them to this README:
 
-```markdown
-## Screenshots
+markdown
+ Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.jpeg)
+ Dashboard
+[Dashboard](./screenshots/dashboard.jpeg)
 
 ### Visitor List
-![Visitor List](screenshots/visitors_list.jpeg)
+[Visitor List](./screenshots/visitors_list.jpeg)
 
 ### Visitor Registration
-![Visitor Registration](screenshots/visitor_registration.jpeg)
+[Visitor Registration](./screenshots/visitor_registration.jpeg)
 
 ### Visitor Details and QR Code
-![Visitor Details and QR Code](screenshots/visitor_detail_1.jpeg)
+[Visitor Details and QR Code](./screenshots/visitor_detail_1.jpeg)
 
 ### QR Scanner
-![QR Scanner](screenshots/qr_scanner.jpeg)
-```
+[QR Scanner](./screenshots/qr_scanner.jpeg)
+
 
 These image paths are placeholders until the screenshots have been added to the repository.
 
