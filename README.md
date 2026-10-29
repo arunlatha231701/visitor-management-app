@@ -133,16 +133,18 @@ flutter --version
 dart --version
 ```
 
+## Login Credentials
+
+Login is not required to use this application. Therefore, test login credentials are **not applicable**.
+
 ## Installation and Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd visitor_management_app
+git clone https://github.com/arunlatha231701/visitor-management-app.git
+cd visitor-management-app
 ```
-
-Replace `<your-repository-url>` with the actual Git repository URL.
 
 ### 2. Install dependencies
 
@@ -302,23 +304,6 @@ The app should provide understandable feedback instead of crashing or displaying
 
 ## Screenshots
 
-Add screenshots of the actual running application before submitting the repository.
-
-Recommended folder structure:
-
-```text
-screenshots/
-├── dashboard.png
-├── visitor_list.png
-├── visitor_registration.png
-├── visitor_details_qr.png
-└── qr_scanner.png
-```
-
-After capturing the screenshots, add them to this README:
-
-markdown## Screenshots
-
 ### Dashboard
 
 ![Dashboard](screenshots/dashboard.jpeg)
@@ -338,9 +323,6 @@ markdown## Screenshots
 ### QR Scanner
 
 ![QR Scanner](screenshots/qr_scanner.jpeg)
-
-
-These image paths are placeholders until the screenshots have been added to the repository.
 
 ## Testing Checklist
 
@@ -375,7 +357,7 @@ The following items must be confirmed before the README is considered final:
 - Visitor ID mapping must be confirmed against the actual API response.
 - Dashboard counts must be checked against the complete dataset returned by the API.
 - Automated test and static-analysis results have not been confirmed here.
-- The final screenshots, APK, and repository URL must be added before submission.
+- Confirm that the screenshots, APK link, and repository URL are accessible before submission.
 
 Update this section to reflect the actual results of your final testing.
 
@@ -397,7 +379,7 @@ Install and test the release APK on a physical Android device before submission.
 
 ## Assignment Deliverables
 
-Prepare the following for evaluation:
+The repository and submission package should include the following:
 
 1. Complete Flutter source code and Git repository.
 2. Installable Android release APK.
